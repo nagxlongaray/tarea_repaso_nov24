@@ -1,0 +1,5 @@
+# Ignoramos archivos con las siguientes extensiones:
+
+local_config/
+.temp/
+*.env
